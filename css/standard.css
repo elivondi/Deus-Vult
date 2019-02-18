@@ -37,6 +37,10 @@ header {
 	border-color: #d5d5d5;
 }
 
+header li {
+	list-style-type: none;
+}
+
 header * {
 	text-align: center;
 }
